@@ -1,0 +1,2 @@
+pip install chromadb langchain_community langchain ollama
+pip install google-genai
